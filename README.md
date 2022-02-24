@@ -37,6 +37,6 @@ Vuejs snippet to single file component, based in vuejs documentation
 			"<style lang=\"scss\"></style>",
 			""
 		],
-		"description": "Vuejs snippet to single file component, based in vuejs documentation: https://br.vuejs.org/v2/style-guide/index.html#Ordem-das-opcoes-de-componente-instancia-Recomendado"
+		"description": "Vuejs snippet to single file component, based in vuejs documentation: https://vuejs.org/style-guide/rules-recommended.html#component-instance-options-order"
 	},
 }
