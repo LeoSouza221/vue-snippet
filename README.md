@@ -1,6 +1,6 @@
-#Vue-Snippet
+# Vue-Snippet
 
-##Vscode
+## Vscode
 - Ctrl + P
 - Type: Configure user snippets
 - Select vue.json
