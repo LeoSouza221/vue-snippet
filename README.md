@@ -39,4 +39,4 @@ Vuejs snippet to single file component, based in vuejs documentation
 		],
 		"description": "Vuejs snippet to single file component, based in vuejs documentation: https://br.vuejs.org/v2/style-guide/index.html#Ordem-das-opcoes-de-componente-instancia-Recomendado"
 	},
-}```
+}
