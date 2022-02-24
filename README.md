@@ -6,7 +6,8 @@ Vuejs snippet to single file component, based in vuejs documentation
 - Select vue.json
 - Paste
 
-```{
+```
+{
 	"Vue Snippet": {
 		"prefix": ["vueSnippet"],
 		"body": [
@@ -26,7 +27,7 @@ Vuejs snippet to single file component, based in vuejs documentation
 				"  inject: [],",
 				"  props: {",
 				"    myProp: {",
-			 	"      type: String,",
+				"      type: String,",
 				"      default: ''",
 				"    }",
 				"  },",
