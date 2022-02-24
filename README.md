@@ -1,5 +1,5 @@
 # Vue-Snippet
-
+Vuejs snippet to single file component, based in vuejs documentation
 ## Vscode
 - Ctrl + P
 - Type: Configure user snippets
